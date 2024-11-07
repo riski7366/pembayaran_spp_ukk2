@@ -1,4 +1,4 @@
-<?php
+?php
 
 $nama_kelas = $_POST['nama_kelas'];
 $kompetensi_keahlian = $_POST['kompetensi_keahlian'];
