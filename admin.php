@@ -47,7 +47,7 @@ if(empty($_SESSION['id_petugas'])){
                echo"Aplikasi Pembayaran SPP digunakan untuk mempermudah dalam mencatat pembayaran siswa / siswi disekolah.";
            }else{
                include $file.'.php';
-           }.
+           }
            ?>
        </div>
    </div>
