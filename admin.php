@@ -51,6 +51,6 @@ if(empty($_SESSION['id_petugas'])){
            ?>
        </div>
    </div>
-<script src="../js/bootstrap.bundle.min.js"><script>
+<script src="../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
